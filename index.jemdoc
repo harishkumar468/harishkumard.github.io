@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Harish K. Dureppagari
+
+~~~
+{}{img_left}{Harish_Image.jpg}{Portrait of Harish K. Dureppagari}{170}{200}
+Ph.D. Student, Wireless@VT, \n
+Bradley Department of Electrical and Computer Engineering, \n
+Virginia Tech, Blacksburg, USA
+~~~
+
+== About Me
+I am currently pursuing my Ph.D. at Virginia Tech, focusing on the advancement of localization techniques for 5G and 6G networks. My research primarily revolves around developing positioning algorithms and conducting thorough performance analysis using information inequalities.
+
+Prior to joining VT, I was a Ph.D. student at Texas A&M University, where my research centered around the development of a Real-Time RAN Intelligent Controller for 4G and 5G systems.
+
+Before this, I was a Lead Engineer at WiSig Networks Pvt Ltd, where I worked on the design and validation of beamforming and scheduling algorithms for 4G and 5G Massive MIMO systems.
+
+== Research Interests
+
+- Wireless Communications
+- Localization
+- Massive MIMO
+
+== Contact
+
+E-mail: harishkumard@vt.edu
