@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{overview.html}, nofooter
 == Overview
 
-== Localization
+== Localization /(2022-Present)/
 
 - UAV-aided indoor localization for emergency applications such as locating first responders
 	-- Cramer Rao lower bound (CRLB) based analysis by considering various system parameters.
@@ -11,13 +11,15 @@
 	-- Identified prospective study items for NTN-based accurate positioning in 6G.
 	-- Created a 3GPP-compliant simulation framework to evaluate positioning performance based on CRLB analysis.
 
-== RAN intelligent controller (RIC)
+== RAN intelligent controller (RIC) /(2021-2022)/
+
 Developed a system framework to enable real-time RIC functionality.
 - Developed scheduling algorithms and enabled the wireless system (srsRAN) to support simultaneous connections from multiple users.
 - Facilitated the collection of scheduling weights from the RIC and efficient resource allocation for the connected users.
 
 
-== System Level Simulator (SLS)
+== System Level Simulator (SLS) /(2018-2021)/
+
 Developed a 3GPP-compliant downlink and uplink SLS for design validation of massive MIMO beamforming and scheduling solutions.
 - SLS Features: FD-MIMO Channel Model, Antenna Array, Different Numerologies, Flexible Slot Formats, CSI Feedback, Traffic Modeling, Proportional Fair Scheduler, SU/MU-MIMO Multiplexing, MU-MIMO User Pairing, Precoding, Hybrid ARQ, Outer Loop Rate Control, and Uplink Power Control.
 - Conducted channel model and throughput calibration aligned with 3GPP.
