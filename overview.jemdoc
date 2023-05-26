@@ -7,7 +7,7 @@
 	-- Cramer Rao lower bound (CRLB) based analysis by considering various system parameters.
 	-- Created a simulation framework to assess the positioning performance.
 	-- Developing algorithms to meet CRLB.
-- NTN-based localization for 5G and 6G
+- NTN-based 6G localization
 	-- Identified prospective study items for NTN-based accurate positioning in 6G.
 	-- Created a 3GPP-compliant simulation framework to evaluate positioning performance based on CRLB analysis.
 
