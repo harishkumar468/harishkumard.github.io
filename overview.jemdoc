@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{overview.html}, nofooter
+== Overview
+
+== Localization
+
+- UAV-aided indoor localization for emergency applications such as locating first responders
+	-- Cramer Rao lower bound (CRLB) based analysis by considering various system parameters.
+	-- Created a simulation framework to assess the positioning performance.
+	-- Developing algorithms to meet CRLB.
+- NTN-based localization for 5G and beyond
+	-- Identified prospective study items for NTN-based accurate positioning in 6G.
+	-- Created a 3GPP-compliant simulation framework to evaluate positioning performance based on CRLB analysis.
+
+== RAN intelligent controller (RIC)
+Developed a system framework to enable real-time RIC functionality.
+- Developed scheduling algorithms and enabled the wireless system (srsRAN) to support simultaneous connections from multiple users.
+- Facilitated the collection of scheduling weights from the RIC and efficient resource allocation for the connected users.
+
+
+== System Level Simulator (SLS)
+Developed a 3GPP-compliant downlink and uplink SLS for design validation of massive MIMO beamforming and scheduling solutions.
+- SLS Features: FD-MIMO Channel Model, Antenna Array, Different Numerologies, Flexible Slot Formats, CSI Feedback, Traffic Modeling, Proportional Fair Scheduler, SU/MU-MIMO Multiplexing, MU-MIMO User Pairing, Precoding, Hybrid ARQ, Outer Loop Rate Control, and Uplink Power Control.
+- Conducted channel model and throughput calibration aligned with 3GPP.
+- Devised an innovative scheduler capable of efficiently managing hundreds of users, supporting both SU-MIMO and MU-MIMO.
+- Developed novel user pairing algorithms to spatially multiplex users for downlink MU-MIMO transmission.
+- Designed and validated beamforming algorithms to enhance downlink control channel capacity in 4G systems.
+- Designed receiver beamforming algorithms for the uplink to reduce computational complexity and hardware cost for receivers.
+- Proposed uplink coverage enhancements for extremely large cells in 5G NR.
+- Proposed port signaling for reference signals as a means to mitigate inter-cell interference.
+- Self-Organizing Networks (SON):
+	-- Implemented SON functionality to monitor and control RAN parameters.
+	-- SON Features: Configuring cell-specific parameters such as transmit power, antenna pattern, boresight, downtilt, etc., flexible eNB locations, multiple eNBs, intra-inter frequency handover, and collecting key metrics (RSRP, SINR, CQI, etc.).
