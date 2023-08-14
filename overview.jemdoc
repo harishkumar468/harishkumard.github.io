@@ -11,6 +11,15 @@
 	-- Identified prospective study items for NTN-based accurate positioning in 6G.
 	-- Created a 3GPP-compliant simulation framework to evaluate positioning performance based on CRLB analysis.
 
+
+== ORAN ULPI Architectures /(Summer 2023)/
+
+Analysis of Performance Differences in ORAN ULPI Proposed Architectures
+- Developed an uplink multi-user MIMO link level simulator (LLS) leveraing 5G toolbox in MATLAB.
+- Investigated proposed uplink performance improvement (ULPI) architectures compliant to ORAN 7-2x.
+- LLS Features: Channel estimation, equalization with modular granularity, MU-MIMO, hybrid ARQ, antenna array, CDL channel model, and evaluation metrics (sum throughput and post-processing SINR).
+
+
 == RAN intelligent controller (RIC) /(2021-2022)/
 
 Developed a system framework to enable real-time RIC functionality.
