@@ -15,7 +15,7 @@
 == ORAN ULPI Architectures /(Summer 2023)/
 
 Analysis of Performance Differences in ORAN ULPI Proposed Architectures
-- Developed an uplink multi-user MIMO link level simulator (LLS) leveraing 5G toolbox in MATLAB.
+- Developed an uplink multi-user MIMO link level simulator (LLS) leveraging 5G toolbox in MATLAB.
 - Investigated proposed uplink performance improvement (ULPI) architectures compliant to ORAN 7-2x.
 - LLS Features: Channel estimation, equalization with modular granularity, MU-MIMO, hybrid ARQ, antenna array, CDL channel model, and evaluation metrics (sum throughput and post-processing SINR).
 
