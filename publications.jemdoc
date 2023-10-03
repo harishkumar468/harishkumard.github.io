@@ -13,7 +13,7 @@
 
 == Patents
 . K. Kuchi, *H. K. Dureppagari*, S. A. K. Makandar, and S. Amuru, "Massive mimo interference suppression receivers aided by network signaling", WiSig Networks Pvt Ltd, IN patent number 202141025565, application number US17/691,529, publication number US20220393817A1. ([https://patents.google.com/patent/US20220393817A1/en Google Patents Link])
-. P. R. Manne, *H. K. Dureppagari*, S. Amuru, and K. Kuchi, "Method for wireless communication using beamformed physical downlink control channel (PDCCH)", WiSig Networks Pvt Ltd, IIT Hyderabad, IN patent number 201941017958, application number US17/290,290, publication number US20210266049A1. ([https://patents.google.com/patent/US20210392669A1/en Google Patents Link])
+. P. R. Manne, *H. K. Dureppagari*, S. D. Amuru, and K. Kuchi, "Method for wireless communication using beamformed physical downlink control channel (PDCCH)", WiSig Networks Pvt Ltd, IIT Hyderabad, IN patent number 201941017958, application number US17/290,290, publication number US20210266049A1. ([https://patents.google.com/patent/US20210392669A1/en Google Patents Link])
 . K. Kuchi, S. Amuru, *H. K. Dureppagari*, and P. R. Manne, "Method and system for scheduling a pool of resources to a plurality of user equipments", WiSig Networks Pvt Ltd, IIT Hyderabad, IN patent number 201841029885, application number US17/264,067, publication number US20210321423A1. ([https://patents.google.com/patent/US20210321423A1/en Google Patents Link])
 . K. Kuchi, S. Amuru, *H. K. Dureppagari*, and P. R. Manne, "Method for allocating resources to a plurality of users by a base station", WiSig Networks Pvt Ltd, IIT Hyderabad, IN patent number 202041005719, application number US17/172,404, publication number US20210392669A1. ([https://patents.google.com/patent/US20210266049A1/en Google Patents Link])
 . K. Kuchi, S. Amuru, K. R. Gudimetla, S. Kumawat, P. R. Manne, S. A. K. Makandar, and *H. K. Dureppagari*, "Methods for improving coverage of a cellular network and systems thereof", WiSig Networks Pvt Ltd, IIT Hyderabad, IN patent number 202041034036, application number IN2021/050757, publication number WO2022029806A1. ([https://patents.google.com/patent/WO2022029806A1/en Google Patents Link])
@@ -23,3 +23,6 @@
 == Posters
 . *H.K. Dureppagari*, C. Saha, H. S. Dhillon, R. M. Buehrer, "NTN-based 6G Localization: Vision and Role of LEOs", /IEEE CTW 2023/, Hualien, Taiwan, Jul. 2023.
 . *H. K. Dureppagari*, U. Dinesha, R. Wu, S. Ganji, W. Ko, S. Shakkottai, and D. Bharadia, "Realtime Intelligent Control for NextG Cellular Radio Access Networks", /ACM MobiSys/, Portland, OR, USA, Jun. 2022. ([https://dl.acm.org/doi/abs/10.1145/3498361.3538787 ACM])
+
+== White Papers
+. S. Bisoyi, M. M. Pasupuleti, K. Kuchi, K. Rao, *H. K. Dureppagari*, S. Kumari, S. Amuru, "Meeting IMT 2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies", Jul. 2023. ([https://arxiv.org/abs/2307.14978 arXiv])
